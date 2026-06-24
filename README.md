@@ -123,32 +123,7 @@ Other      ░░░░░░░░░░░░░░░░░░░░░░░
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Dishav05&theme=tokyonight&no-frame=true&row=1)
-
-</div>
-
----
-
-## 📂 Featured Projects
-
-<div align="center">
-
-### 🌟 Project Showcase
-
-</div>
-
-| Project | Description | Tech Stack | Stars |
-|---------|-------------|-----------|-------|
-| **[Project 1](https://github.com/Dishav05/project1)** | Brief description of your amazing project | React, Node.js, MongoDB | ![Stars](https://img.shields.io/github/stars/Dishav05/project1?style=social) |
-| **[Project 2](https://github.com/Dishav05/project2)** | Another incredible project you built | Python, FastAPI, PostgreSQL | ![Stars](https://img.shields.io/github/stars/Dishav05/project2?style=social) |
-| **[Project 3](https://github.com/Dishav05/project3)** | Innovative solution for a real problem | TypeScript, Next.js, Tailwind | ![Stars](https://img.shields.io/github/stars/Dishav05/project3?style=social) |
-| **[Project 4](https://github.com/Dishav05/project4)** | Open source contribution | JavaScript, Vue.js, Docker | ![Stars](https://img.shields.io/github/stars/Dishav05/project4?style=social) |
 
 ---
 
@@ -219,28 +194,7 @@ Other      ░░░░░░░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-### 🚀 Active Projects
 
-```
-████████████░░░░░░░░ Project Alpha     75% Complete
-██████░░░░░░░░░░░░░░ Project Beta      30% Complete
-██████████████░░░░░░ Learning DevOps   60% Complete
-```
-
-</div>
-
----
-
-## 🎓 Education & Certifications
-
-<div align="center">
-
-- 🎓 [AWS Certified Developer](https://aws.amazon.com)
-- 🏅 [Google Cloud Professional](https://cloud.google.com)
-- 📜 [React Advanced Certificate](https://udemy.com)
-- 🔒 [Security+](https://comptia.org)
-
-</div>
 
 ---
 
@@ -259,54 +213,13 @@ I'm always interested in:
 
 **Feel free to reach out!**
 
-[📧 Email](mailto:your.email@example.com) | [💼 LinkedIn](https://linkedin.com/in/yourprofile) | [💻 LeetCode](https://leetcode.com/yourprofile) | [🐦 Twitter](https://twitter.com/yourhandle) | [🌐 Portfolio](https://yourportfolio.com)
-
-</div>
 
 ---
 
-## 💻 Coding Statistics
 
-<div align="center">
-
-```
-Monday      ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░  10%
-Tuesday     ████░░░░░░░░░░░░░░░░░░░░░░░░░░  15%
-Wednesday   █████░░░░░░░░░░░░░░░░░░░░░░░░░  18%
-Thursday    ████████░░░░░░░░░░░░░░░░░░░░░░  25%
-Friday      ███████░░░░░░░░░░░░░░░░░░░░░░░  20%
-Saturday    ████░░░░░░░░░░░░░░░░░░░░░░░░░░  7%
-Sunday      ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  5%
-```
-
-</div>
 
 ---
 
-## 📺 Featured Videos & Resources
-
-<div align="center">
-
-- 🎥 [My YouTube Channel](https://youtube.com/yourhandle) - Web Development Tutorials
-- 📚 [Blog](https://yourblog.com) - Technical Articles & Insights
-- 🎤 [Speaking Engagements](https://yoursite.com) - Conference Talks
-
-</div>
-
----
-
-## 🌟 Interesting Stats
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Dishav05&color=blueviolet&style=flat-square)
-
-**Total Code Commits:** 2,500+ ⌨️  
-**Open Source Projects:** 15+ 🎯  
-**Bugs Squashed:** 300+ 🐛  
-**Coffee Cups:** ∞ ☕
-
-</div>
 
 ---
 
