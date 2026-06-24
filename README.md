@@ -38,72 +38,29 @@ I'm a passionate developer and open-source enthusiast committed to building mean
 
 ## 🛠️ Tech Stack & Skills
 
-<div align="center">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-### Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-</div>
+| | |
+|---|---|
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-0081CB?style=flat-square&logo=material-ui&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) |
 
 ---
 
 ## 📊 GitHub Statistics & Analytics
 
+
+
 <div align="center">
-
-### Overall Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dishav05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dishav05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-### GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dishav05&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-### Contribution Graph
-![Contribution Activity](https://activity-graph.herokuapp.com/graph?username=Dishav05&theme=tokyo-night&hide_border=true&area=true)
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dishav05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishav05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="160" src="https://streak-stats.demolab.com?user=Dishav05&theme=tokyonight&hide_border=true" />
 </div>
+
 
 ---
 
@@ -125,101 +82,6 @@ Other      ░░░░░░░░░░░░░░░░░░░░░░░
 
 
 
----
-
-## 📊 Wakatime Stats
-
-<div align="center">
-
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dishav05&theme=tokyonight&hide_border=true)](https://wakatime.com)
-
-</div>
-
----
-
-## 🔥 Most Used Languages - Detailed
-
-<div align="center">
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dishav05&layout=pie&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📈 Repository Statistics
-
-<div align="center">
-
-| Metric | Count |
-|--------|-------|
-| **Total Repositories** | ![Repos](https://img.shields.io/badge/Repos-25-blue?style=flat) |
-| **Total Stars** | ![Stars](https://img.shields.io/badge/Stars-156-yellow?style=flat) |
-| **Total Followers** | ![Followers](https://img.shields.io/badge/Followers-342-green?style=flat) |
-| **Public Gists** | ![Gists](https://img.shields.io/badge/Gists-12-purple?style=flat) |
-
-</div>
-
----
-
-## 🌍 Recent Activity
-
-<div align="center">
-
-- ⭐ Starred [awesome-project](https://github.com/user/awesome-project)
-- 🔄 Contributed to [open-source](https://github.com/user/open-source)
-- 📝 Created [new-repo](https://github.com/Dishav05/new-repo)
-- 💬 Reviewed pull request in [community-project](https://github.com/user/community-project)
-- 🐛 Fixed critical bug in [production](https://github.com/Dishav05/production)
-
-</div>
-
----
-
-## 🎯 Current Goals
-
-<div align="center">
-
-- 🔨 Building **AI-powered application** with machine learning
-- 📚 Learning about **Kubernetes & DevOps**
-- 🎓 Contributing more to **open-source projects**
-- 📝 Writing **technical blog posts**
-- 🌐 Building **full-stack SaaS product**
-
-</div>
-
----
-
-## 💡 What I'm Currently Working On
-
-<div align="center">
-
-
-
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-### Let's Collaborate! 🤝
-
-I'm always interested in:
-- 💼 Freelance projects
-- 👥 Open-source contributions
-- 🤖 AI/ML initiatives
-- 📱 Startup opportunities
-- 🎯 Mentoring & learning
-
-**Feel free to reach out!**
-
-
----
-
-
-
----
-
 
 ---
 
@@ -227,24 +89,21 @@ I'm always interested in:
 
 <div align="center">
 
-> *"Code is poetry written for computers to execute and humans to understand."*
+> *"Still need something about you to work with! Even one word — like "coffee", "sleep", "gaming" — and I'll run with it"*
 
-**Random Dev Fact:** I've been coding for 5+ years and still learn something new every single day! 🚀
+
 
 </div>
 
----
 
 <div align="center">
 
-### 🙏 Thanks for Visiting!
+
 
 If you find my work interesting, please consider giving some of my repositories a ⭐
 
 **Let's build something amazing together!** 🚀✨
 
----
 
-**Made with ❤️ by Dishav05**
 
 </div>
