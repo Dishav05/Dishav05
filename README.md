@@ -18,7 +18,7 @@
 
 <div align="center">
 
-# 🚀 Full Stack Developer | Open Source Enthusiast | Problem Solver
+# 🚀 Full Stack Developer | AI & ML | Problem Solver
 
 *Turning ideas into elegant solutions through code* ✨
 
@@ -30,12 +30,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqKSpsLH/giphy.gif">
 
-I'm a passionate developer and open-source enthusiast committed to building meaningful software solutions. Welcome to my corner of GitHub!
+I'm a Software developer committed to building meaningful software solutions. Welcome to my corner of GitHub!
 
 - 💻 Full-stack developer with diverse technical interests
 - 🎯 Focused on writing scalable, maintainable code
 - 🌱 Constantly learning and exploring new technologies
-- 🤝 Strong believer in open-source and community collaboration
+- 🤝 Strong hold on Competive Programming
 - 🏆 Problem solver with a passion for elegant solutions
 
 ---
